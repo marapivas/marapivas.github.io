@@ -1,0 +1,120 @@
+.main{
+  width: 1365px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.container{
+  height: 430px;
+
+  position: relative;
+  right:0px;
+  display: flex;
+  
+}
+
+.body{
+  width:900px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+h1{
+ 
+  top:0px;
+  left:232.5px;
+  font-family: "abril fatface";
+  padding:0;
+  margin:0;
+  position: absolute;
+  top:270px;
+  font-size: 40px;
+  
+}
+h2{
+
+  font-size: 55px;
+  background-color: #222;
+  color: white;
+  padding: 70px;
+  position: relative;
+  
+  
+  
+    
+  
+}
+
+h2::before {
+  content: '”';
+  font-size:140px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-transform: uppercase;
+ 
+  
+}
+
+h3{
+  font-family: "josefin sans";
+  font-size:30px;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left:50px;
+  padding-right:50px;
+  
+}
+
+h4{
+  font-size:24px;
+  font-family: "josefin sans";
+  padding-left:50px;
+  padding-right:50px;  
+  margin: 0;  
+  
+}
+
+h5{
+  font-size:15px;
+  font-family: "Merriweather";
+  font-style: italic;
+  
+  padding-left:50px;
+  padding-right:50px;
+  margin: 0;
+  
+}
+p{
+  font-family: "josefin sans";
+  font-size: 22px;
+  padding-left:50px;
+  padding-right:50px;
+    
+}
+.anakin{
+  font-size: 70px;
+  font-family: "abril fatface";
+  padding:0;
+  margin:0;
+  position: absolute;
+  top:300px;
+  left:232.5px;
+  
+ 
+}
+test {
+  position: relative;
+  top
+  
+}
+ul{
+  font-family: "josefin sans";
+
+  padding-left:100px;
+  padding-right:50px;
+  
+}
